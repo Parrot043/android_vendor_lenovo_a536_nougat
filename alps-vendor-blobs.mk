@@ -149,4 +149,5 @@ PRODUCT_COPY_FILES += \
     vendor/alps/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/alps/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/alps/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/alps/proprietary/xbin/mnld:system/xbin/mnld
+    vendor/alps/proprietary/xbin/mnld:system/xbin/mnld \
+    vendor/alps/proprietary/lib/libstlport.so:system/lib/libstlport.so
