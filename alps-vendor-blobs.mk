@@ -89,7 +89,9 @@ PRODUCT_COPY_FILES += \
     vendor/alps/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
     vendor/alps/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
     vendor/alps/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
-    vendor/alps/proprietary/lib/libaudiopolicymanagersprout.so:system/lib/libaudiopolicymanagersprout.so \
+    vendor/alps/proprietary/lib/libaudiopolicymanager.so:system/lib/libaudiopolicymanager.so \
+    vendor/alps/proprietary/lib/libaudiopolicyenginedefault.so:system/lib/libaudiopolicyenginedefault.so \
+    vendor/alps/proprietary/lib/libaudiopolicyservice.so:system/lib/libaudiopolicyservice.so \
     vendor/alps/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
     vendor/alps/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
     vendor/alps/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
